@@ -1,5 +1,5 @@
 # Password-Generator
-Simple password generator with python 
+
 
 
                 /|  /|  ---------------------------
@@ -18,4 +18,4 @@ Simple password generator with python
        /\                  |
       / /\        |        /
      / /  |       |       |
-___/ /   |       |       |
+Simple password generator with python 
