@@ -19,4 +19,3 @@ Simple password generator with python
       / /\        |        /
      / /  |       |       |
 ___/ /   |       |       |
-____/    c_c_c_C/ \C_c_c_c
